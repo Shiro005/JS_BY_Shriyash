@@ -66,7 +66,7 @@
 
 let color = ['red', 'white', 'orange', 'blue'];
 
-for (let [index, color] of colors) {
+for (let [index, color] of colors.entries()) {
     console.log(`${index}: ${color}`);
 }
 

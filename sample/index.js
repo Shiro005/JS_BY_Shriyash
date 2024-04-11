@@ -1,17 +1,11 @@
-let color = ['red', 'yellow', 'green']
+let a = 10
+let marks = [10, 20, 30]
 
-console.log("For in loop")
-for (let colors in color) {
-    console.log(color[colors])
+console.log(marks[1])
+
+let person = {
+    name : 'Steve',
+    age :24
 }
 
-console.log("For of Loop")
-for (colors of color) {
-    console.log(colors)
-}
-
-// entries method
-
-for(let [index, colors] of color.entries()){
-    console.log(index)
-}
+console.log(person.name);
