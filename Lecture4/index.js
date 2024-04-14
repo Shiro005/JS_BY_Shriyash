@@ -16,11 +16,11 @@ function greet() {
 
 // 2,2 = 4
 
-// function add(a, b) { // parameters
-//     console.log(a + b)
-// }
+function add(a, b) { // parameters
+    console.log(a + b)
+}
 
-// add(1, 2) // call arguments
+add(1, 2) // call arguments
 
 function sub(a, b) {
     console.log(a - b)

@@ -1,11 +1,10 @@
-let a = 10
-let marks = [10, 20, 30]
+// Function in JS Day - 5 
+// Basic Level Questions of Javascript 
 
-console.log(marks[1])
+// 1 Write a JavaScript program to convert a string into uppercase
 
-let person = {
-    name : 'Steve',
-    age :24
-}
+// 2 Write a JavaScript program to find the maximum number in an array. 
 
-console.log(person.name);
+// 3 Write a JavaScript function that takes an array of numbers and returns a new array with only the even numbers. 
+
+
