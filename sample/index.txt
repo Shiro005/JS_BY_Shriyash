@@ -1,0 +1,20 @@
+1. Hoisting in Js 
+
+>> JavaScript Hoisting refers to the process where by the interpeter appears to move the declaration of functions imports to top of their scope, to execution of the code 
+
+2. ES6 in Javascript 
+
+>> ECMA - European Computer Manufacturers Association
+
+>> ES6 feature 
+1. let and const and var problem 
+2. Arrow Functions in ES6
+3. Defaults Parameters 
+4. Template literals and multi line string functionality
+5. Destructuring 
+6. Higher order functions
+7. Promises 
+8. Classes in JavaScript - oops concept in JS
+9. Modules in JavaScript
+
+
