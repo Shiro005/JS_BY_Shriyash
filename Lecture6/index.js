@@ -1,6 +1,11 @@
-function test () {
-    let a = 20
-    console.log(a)
+// console.log(a) error
+
+let a = 'hi'
+
+greet()
+
+function greet () {
+    console.log("Hi from function")
 }
 
-console.log(a)
+
