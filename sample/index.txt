@@ -7,14 +7,11 @@
 >> ECMA - European Computer Manufacturers Association
 
 >> ES6 feature 
-1. let and const and var problem 
-2. Arrow Functions in ES6
-3. Defaults Parameters 
+1. let and const and var problem // true
+2. Arrow Functions in ES6 // true
+3. Defaults Parameters // true
 4. Template literals and multi line string functionality
 5. Destructuring 
-6. Higher order functions
-7. Promises 
-8. Classes in JavaScript - oops concept in JS
-9. Modules in JavaScript
+6. Modules in JavaScript
 
 

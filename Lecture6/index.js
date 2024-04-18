@@ -2,7 +2,7 @@
 
 let a = 'hi'
 
-greet()
+greet() // call 
 
 function greet () {
     console.log("Hi from function")
