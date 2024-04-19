@@ -1,0 +1,31 @@
+Introduction to Functional programming
+ 
+1. Imperative and declarative way of writing code 
+2. pure functions side effects 
+3. callback functions in JS
+
+**** We can use javascript in oops ****
+
+Home Work
+Questions = given a array 
+suppose, 
+let array = [11, 43, 23, 65, 67]
+
+test case 1
+user = 43
+output = 1 // index num
+
+test case 2
+user = 23
+output = 2 // index num
+
+test case 3
+user = 199
+output = -1 // index num
+
+Hint => for loop, if-else, functions
+
+
+
+
+
