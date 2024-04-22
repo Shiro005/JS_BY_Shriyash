@@ -1,17 +1,8 @@
-1. Hoisting in Js 
+Chapter Name = functional programming
 
->> JavaScript Hoisting refers to the process where by the interpeter appears to move the declaration of functions imports to top of their scope, to execution of the code 
-
-2. ES6 in Javascript 
-
->> ECMA - European Computer Manufacturers Association
-
->> ES6 feature 
-1. let and const and var problem // true
-2. Arrow Functions in ES6 // true
-3. Defaults Parameters // true
-4. Template literals and multi line string functionality
-5. Destructuring 
-6. Modules in JavaScript
-
-
+Today's Concepts
+>>> Callback functions
+>>> 10x Dev. 
+>>> sort array
+>>> Binary Search
+>>> Object Functions
