@@ -167,6 +167,5 @@ console.log(ages);
 
 
 
-
  
 
