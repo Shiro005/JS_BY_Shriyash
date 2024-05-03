@@ -1,15 +1,15 @@
-function create_person (name, age, aadhar_no) {
-    this.name = name
-    this.age = age
-    var aadhar_no = aadhar_no
+function createPerson({ name, age, aadharNo }) {
+    this.name = name;
+    this.age = age;
+    this.aadharNo = aadharNo;
 
-    this.get_aadhar = () => {
-        return `This is your aadhar card number ${aadhar_no}`
-    } 
+    this.getAadhar = () => {
+        return `This is your aadhar card number ${this.aadharNo}`;
+    };
 }
 
-let person1 = new create_person ('Satish', 43, 266262)
+const person1 = new createPerson({ name: 'Satish', age: 43, aadharNo: 266262 });
 
-console.log(person1);
+console.log(person1); // other
+console.log(person1.getAadhar()); // personal
 
-console.log(person1.get_aadhar())
