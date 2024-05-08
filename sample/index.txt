@@ -1,8 +1,0 @@
-Chapter Name = functional programming
-
-Today's Concepts
->>> Callback functions
->>> 10x Dev. 
->>> sort array
->>> Binary Search
->>> Object Functions
