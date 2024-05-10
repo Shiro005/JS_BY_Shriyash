@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # **Free JavaScript Mastery Series**
 # _Welcome to the Free JavaScript Mastery Series!_ 🚀
 
