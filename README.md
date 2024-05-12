@@ -18,10 +18,19 @@ This GitHub repository contains all the code examples and resources used in the 
 
 **Feel free to clone this repository or download individual code files to follow along with the lectures. All code provided is licensed under MIT License, meaning it's completely free to use and modify for personal or commercial projects.**
 
+### How to clone and use it 
+```bash
+// open git bash
+mkdir create_folder
+cd create_folder_name
+git init
+git clone https://github.com/Shiro005/JS_BY_Shriyash.git
+cd JS_BY_Shriyash
+code .
+```
+
 ## ***Get Started ✈️***
 **Ready to embark on your journey to JavaScript mastery? Start by exploring the lectures in the repository and follow along with the accompanying code. If you have any questions or need further clarification, don't hesitate to reach out or create an issue in the repository.**
 
 # ***Happy coding! 🎉***
 ## _Shriyash Rulhe 🦇_
-
->>>>>>> 6476158086055088462dc935858ac0057566e2dd
