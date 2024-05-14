@@ -14,13 +14,13 @@ const fs = require('fs')
 // async nature of Js
 console.log("First Line") 
 // for file 1 
-fs.readFile('file1.txt', test1)
+fs.readFile('file1.txt', test1) 
 
 function test1 (err, data) {
     if(err) {
         console.log(err)
     }
-    console.log(data.toString())
+    console.log(data)
 }
 
 // for file 2
@@ -30,7 +30,7 @@ function test2 (err, data) {
     if(err) {
         console.log(err)
     }
-    console.log(data.toString())
+    console.log(data)
 }
 
 console.log("Last Line") // screen share

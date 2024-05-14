@@ -1,0 +1,65 @@
+<mxfile host="65bd71144e">
+    <diagram id="yCnkeQE5sFfOZMsowcOD" name="Page-1">
+        <mxGraphModel dx="853" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#8ff4ff&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Promise in Javascript&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="100" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="In real life there are promises I will do this for you and all stuffs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="140" width="680" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="1. pending state" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="180" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="2.fulfield state" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="220" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="300" y="234.5" as="sourcePoint"/>
+                        <mxPoint x="400" y="234.5" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="I bought&amp;nbsp; groceries" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="220" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="3.Rejecte state" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="260" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="300" y="274.5" as="sourcePoint"/>
+                        <mxPoint x="400" y="274.5" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="I did not brings groceries" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="260" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="4.settled state" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="300" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Exceution of promise is done" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" edge="1" parent="1">
+                    <mxGeometry x="1" y="180" width="100" relative="1" as="geometry">
+                        <mxPoint x="290" y="314.5" as="sourcePoint"/>
+                        <mxPoint x="390" y="314.5" as="targetPoint"/>
+                        <Array as="points"/>
+                        <mxPoint x="180" y="180" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="How to code a promise in js&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="390" width="400" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Lets take a look of IDE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="430" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#8FF4FF;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="520" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
